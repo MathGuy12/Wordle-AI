@@ -1,0 +1,5 @@
+played=30
+win percentage=100
+current streak=30
+max streak=30
+guess distribution=0,0,6,21,3,0
